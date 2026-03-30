@@ -2,7 +2,7 @@
   "name": "gym-planner",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://Denzo83.github.io/gymapp",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
