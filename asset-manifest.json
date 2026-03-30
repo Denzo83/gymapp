@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gymapp/static/css/main.dc9df51c.css",
+    "main.js": "/gymapp/static/js/main.15062bc9.js",
+    "index.html": "/gymapp/index.html",
+    "main.dc9df51c.css.map": "/gymapp/static/css/main.dc9df51c.css.map",
+    "main.15062bc9.js.map": "/gymapp/static/js/main.15062bc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc9df51c.css",
+    "static/js/main.15062bc9.js"
+  ]
+}
