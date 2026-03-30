@@ -1,6 +1,6 @@
 # 🌸 Gym Planner
 
-A mobile-first gym planner. Data saves to your phone's browser — open it on your phone and it remembers everything. Open it on her phone, it's her own separate data.
+A mobile-first gym planner. Data saves to your phone's browser.
 
 ## Features
 - 🌸 **Today** — check off exercises as you go, log the session
